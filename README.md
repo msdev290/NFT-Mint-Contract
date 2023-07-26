@@ -9,6 +9,7 @@ This example shows How To Build A Classic Web3 NFT Minting Dapp with React and S
 
 This demo uses:
 
+
 - Metamask
 - Truffle
 - Alchamy
